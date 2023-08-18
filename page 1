@@ -6,17 +6,17 @@
 <thead>
 <tr>
 <th><h2>product</h2><th>
+
 <th><h2>image</h2></th>
+
 <th><h2>link</h2>
 
-
-</tr>
-<tr>
-<td>
-
-</tr>
-
 </thead>
+<tbody>
+</tbody>
+<tfoot>
+<tr><p>Please buy our products to support small affliate bussiness</p></tr>
+<tfoot>
 </table>
 </body>
 </html>
