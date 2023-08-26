@@ -1,15 +1,28 @@
 <html>
 <head>
+<style>
+header{
+background-color:grey
+}
+main{
+background-color:Orange
+}
+</style>
 </head>
 <body>
 <header>
 <h1>Amazon's Finest Selection</h1>
 </header>
 <main>
-<h2>
-	 product selection
-	 </h2>
-
+<h2> product selection</h2>
+<ul>
+		<li>
+		<h2 class="greenattraction">BEOLA 950ml Water Bottle </h2>
+		<img src="https://m.media-amazon.com/images/I/71OzXvBDHuL._AC_UF1000,1000_QL80_.jpg">
+		<p>link</p>
+                <p>
+		</li>
+</ul>
 </main>
 </body>
 </html>
