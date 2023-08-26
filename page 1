@@ -2,21 +2,11 @@
 <head>
 </head>
 <body>
-<table>
-<thead>
-<tr>
-<th><h2>product</h2><th>
+<header>
+<h1>Amazon's Finest Selection</h1>
+</header>
+<main>
 
-<th><h2>image</h2></th>
-
-<th><h2>link</h2>
-
-</thead>
-<tbody>
-</tbody>
-<tfoot>
-<tr><p>Please buy our products to support small affliate bussiness</p></tr>
-<tfoot>
-</table>
+</main>
 </body>
 </html>
