@@ -7,6 +7,9 @@ background-color:grey
 main{
 background-color:Orange
 }
+.img{
+  width:50%
+}
 </style>
 </head>
 <body>
@@ -18,9 +21,9 @@ background-color:Orange
 <ul>
 		<li>
 		<h2 class="greenattraction">BEOLA 950ml Water Bottle </h2>
-		<img src="https://m.media-amazon.com/images/I/71OzXvBDHuL._AC_UF1000,1000_QL80_.jpg">
-		<p>link</p>
-                <p>
+		<img class="img" src="https://m.media-amazon.com/images/I/71OzXvBDHuL._AC_UF1000,1000_QL80_.jpg">
+		<br>
+		<a href="https://amzn.to/3qLL7aY">link</a>
 		</li>
 </ul>
 </main>
